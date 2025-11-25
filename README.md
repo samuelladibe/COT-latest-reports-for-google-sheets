@@ -118,7 +118,7 @@ Each asset sheet contains:
 - The script handles date formatting and prevents duplicate entries
 
 ##🔒 Permissions Required
-- Google Sheets: Read/write access. Advice: Simply create your and then apply the script to the file via extensions
+- Google Sheets: Read/write access. Advice: Simply create your Google Sheet file and then apply the script to the file via extensions
 - URL Fetch: Access CFTC API
 - Script Properties: Store configuration
 
